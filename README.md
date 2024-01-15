@@ -6,3 +6,4 @@ My goal is to make an IOS app that'll essentially be a hub for me and my friends
 # Updates
 - Started learning Swift (Jan 1, 2024)
 - Added EnumSoft.swift (Jan 14, 2024)
+- Added Quadratic.swift (Jan 15, 2024)
