@@ -7,4 +7,4 @@ My goal is to make an IOS app that'll essentially be a hub for me and my friends
 - Started learning Swift (Jan 1, 2024)
 - Added [EnumSoft.swift](EnumSoft.swift) (Jan 14, 2024)
 - Added [Quadratic.swift](Quadratic.swift) (Jan 15, 2024)
-- Began the concept/playtesting of the [IOS App](IOS_App.swift) (Jan 16, 2024)
+- Began the concept/playtesting of the [IOS App](IOS_App/) (Jan 16, 2024)
